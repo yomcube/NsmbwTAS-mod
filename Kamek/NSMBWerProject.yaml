@@ -1,0 +1,6 @@
+output_dir: "NewerASM"
+code_address: 0x808D9000
+defines:
+modules:
+  - processed/prolog.yaml
+  - processed/apDebug.yaml
