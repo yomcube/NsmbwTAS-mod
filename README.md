@@ -19,3 +19,6 @@ As a fair warning, loading times will be different on the TAS Mod than they are 
 - Cycle Entity Info Display: Hold Down + Press Minus
   - if using TAS Studio, you can use the command `InfoDisplay, [0-2]` to change the info display mode.
   - 0 = none, 1 = speed, 2 = position
+
+# Source Info
+This mod is built off of [NSMBWer+](https://github.com/Developers-Collective/NSMBWerPlus/tree/vanilla-compatible). For information on building the code, read the ReadMe file in that repository.
